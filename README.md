@@ -25,5 +25,8 @@ A lightweight WordPress plugin to add social share buttons to your blog posts.
    ```bash
    git clone github.com/sharafatsiam0/wp-social-btn
 
+2. Setting:
+   ```bash
+   WP Dashboard -> Setting -> Social Share Buttons
 
    
