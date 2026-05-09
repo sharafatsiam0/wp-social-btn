@@ -2,4 +2,4 @@
 ## This is a practice WordPress Plugin
 
 
-### Setting the social Share Button 👉 Setting -> Social Share Buttons
+### Setting the social Share Button 👉 WP Dashboard -> Setting -> Social Share Buttons
